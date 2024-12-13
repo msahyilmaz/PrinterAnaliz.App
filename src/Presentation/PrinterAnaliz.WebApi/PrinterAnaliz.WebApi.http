@@ -1,0 +1,6 @@
+@PrinterAnaliz.WebApi_HostAddress = http://localhost:5096
+
+GET {{PrinterAnaliz.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
