@@ -85,5 +85,3 @@ Bu proje şahsi gelişim için oluşturulmuştur ve herhangi bir yerde yayınlan
 ## Lisans
 
 Bu proje özel olarak geliştirildiği için herhangi bir lisans belirtilmemiştir.
-
-Readme dosyasını chatgpt ile yaptım çünkü üşendim.
